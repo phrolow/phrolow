@@ -12,7 +12,7 @@
 
 ## Contacts
 * Email: [sheludko.bv@phystech.edu](mailto:sheludko.bv@phystech.edu)
-* Telegram: [@operation_overcast](https://telegram.me/operation_overcast)
+* Telegram: [@BOJIWE6CTBO](https://telegram.me/bojiwe6ctbo)
 * VK: [vk.com/phrolow](https://vk.com/phrolow)
 
 ## Important projects
