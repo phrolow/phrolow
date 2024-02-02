@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="https://img.shields.io/badge/Age-20-red" />
+    <img src="https://img.shields.io/badge/Age-19-red" />
     <img src="https://img.shields.io/badge/Focus-System%20Programming-darkgreen" />
     <img src="https://img.shields.io/badge/Lives-Russia-darkblue" />
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-red" />
