@@ -18,7 +18,5 @@
     * [Compiler](https://github.com/phrolow/Compiler)
 * Hash table optimization analytics:
     * [Hash-table-optimization](https://github.com/phrolow/Hash-table-optimization)
-* Solutions of problems from rosalind.info:
-    * [Rosalind](https://github.com/phrolow/Rosalind)
 * C-like language, which compiles code to own VM's native ASM:
     * [Language](https://github.com/phrolow/Language)
