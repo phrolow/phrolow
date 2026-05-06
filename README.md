@@ -4,7 +4,7 @@
 
 
 
-<h1 align="left">Bahdan Shaludzko </h1>
+<h1 align="left">Bogdan Sheludko </h1>
 <h3 align="left">MIPT DREC Student </h3>
 
 ## Contacts
