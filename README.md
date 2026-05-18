@@ -10,7 +10,6 @@
 ## Contacts
 * Email: [sheludko.bv@phystech.edu](mailto:sheludko.bv@phystech.edu)
 * Telegram: [@phro1ow](https://telegram.me/phro1ow)
-* VK: [vk.com/phrolow](https://vk.com/phrolow)
 
 ## Important projects
 
